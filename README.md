@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deventhu-del&label=Profile%20views&color=0e75b6&style=flat" alt="deventhu-del" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React, C++**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
